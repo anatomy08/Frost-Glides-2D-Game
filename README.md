@@ -1,6 +1,20 @@
+# **Game Objectives:**
+- Navigate the track.
+- Execute forward and backward rotations.
+- Accelerate when necessary.
+- Trigger particle effects only when in contact with the ground.
 
+## **Game Design Aims:**
+- Deliver a seamless and soothing experience.
 
-# **Project Title: Frost Glides**
+## **Core Gameplay Mechanic:**
+- Avoid collisions at all costs.
+
+## **Game Progression:**
+- Successfully conquer all three stages.
+
+# **Project Title: Frost Glides** 
+## Project Log.
 
 ## 1. **Creating the Snowy Environment:**
 
