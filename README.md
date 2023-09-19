@@ -4,6 +4,11 @@
 - Accelerate when necessary.
 - Trigger particle effects only when in contact with the ground.
 
+You can play my game here : https://jeffreyexpectacion.itch.io/frost-glides
+You can donate on my GCASH number 09163400978
+
+You can play my Game Here : 
+
 ## **Game Design Aims:**
 - Deliver a seamless and soothing experience.
 
